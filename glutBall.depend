@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1365442611 source:c:\users\jetumblin\desktop\2013_01glutball02_win\glutball.cpp
+	"glutBall.h"
+
+1365432850 c:\users\jetumblin\desktop\2013_01glutball02_win\glutball.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+
+1365780895 source:c:\_work\_jet\_teach\_cs351-2_intermedgraphics\2013_2spr_cs351-2\2013_particlestartercode\2013_01glutball05_win\glutball.cpp
+	"glutBall.h"
+
+1365780965 c:\_work\_jet\_teach\_cs351-2_intermedgraphics\2013_2spr_cs351-2\2013_particlestartercode\2013_01glutball05_win\glutball.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+
+1366111943 source:c:\_work\_jet\_teach\_cs351-2_intermedgraphics\2013_2spr_cs351-2\2013_particlestartercode\2013_01glutball05b_win\glutball.cpp
+	"glutBall.h"
+
+1366087945 c:\_work\_jet\_teach\_cs351-2_intermedgraphics\2013_2spr_cs351-2\2013_particlestartercode\2013_01glutball05b_win\glutball.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+
+1367282742 source:c:\_work\_jet\_teach\_cs351-2_intermedgraphics\2013_2spr_cs351-2\2013_particlestartercode\2013_01glutball05d_win\glutball.cpp
+	"glutBall.h"
+
+1367282183 c:\_work\_jet\_teach\_cs351-2_intermedgraphics\2013_2spr_cs351-2\2013_particlestartercode\2013_01glutball05d_win\glutball.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+
+1367474718 source:c:\users\jordan geltner\documents\graphics\351-2\starter code\2013_01glutball06d_win\glutball.cpp
+	"glutBall.h"
+
+1367472876 c:\users\jordan geltner\documents\graphics\351-2\starter code\2013_01glutball06d_win\glutball.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+
+1367940446 source:c:\users\jordan geltner\documents\graphics\351-2\assignments\projecta04\glutball.cpp
+	"glutBall.h"
+
+1367899329 c:\users\jordan geltner\documents\graphics\351-2\assignments\projecta04\glutball.h
+	<GL/freeglut.h>
+	<GL/GL.h>
+	<GL/Glu.h>
+	<GL/glext.h>
+	<GLUT/glut.h>
+	<OpenGL/GL.h>
+	<OpenGL/Glu.h>
+	<OpenGL/GLext.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<iostream>
+	<math.h>
+
